@@ -1,0 +1,193 @@
+.head{
+    font-size: 50px;
+    margin-left: 44%;
+    margin-top: 42px;
+}
+.outer{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.innerouter{
+    background-image: url("https://packapeer.com/img/header.jpg");
+    background-size: cover;
+    width: auto;
+    height: 560px;
+
+}
+.image{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    width: 299px;
+    height: 59px;
+}
+.innerpara{
+    position: absolute;
+    top: 16%;
+    color:rgb(246, 249, 252);
+    left: 40%;
+    font-size: 68px;
+    font-weight: 0;
+}
+.innerpara2{
+    position: absolute;
+    top: 45%;
+    color:rgb(246, 249, 252);
+    left: 23%;
+    font-size: 15px;
+    font-weight: 0;
+}
+.innerpara3{
+    position: absolute;
+    top: 50%;
+    color:  rgb(246, 249, 252);
+    left: 42%;
+    font-size: 15px;
+    font-weight: 0;
+}
+.innerbutton{
+    position: absolute;
+    border: 1px;
+    width: 285px;
+    height: 44px;
+    left: 41%;
+    top: 63%;
+    color: white;
+    background-color:black;
+}
+.Programs{
+    width: 100%;
+    height: 69px;
+}
+.box1{
+    width: 45%;
+    height: 510px;
+    margin-top: 20px;
+    margin-left: 53px;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+.box2{
+    width: 45%;
+    height: 620px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: rgb(151, 1, 1);
+    margin-left: 598px;
+    margin-top: 5px;
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+.bodyhead{
+    margin-top: 20px;
+    margin-left: 45%;
+    font-size: 43PX;
+}
+.content1{
+    margin-left: 30px;
+}.bodybtn{
+    margin-left: 45%;
+    width: 100px;
+   cursor: pointer;
+}
+.about{
+    font-size: 50px;
+    margin-left: 44%;
+    margin-top: 117px;
+}
+.box3{
+    width: 45%;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 53px;
+}
+.box4{
+    width: 45%;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.content2{
+    margin-left: 10px;
+    font-weight: 10;
+}
+.footer{
+    width: 100%;
+    height: 590px;
+    background-color: #002633;
+}
+.foothead{
+    font-size: 50px;
+    margin-left: 44%;
+    margin-top: 79px;
+    padding-top: 30px;
+    color: white;
+}
+.footcontent{
+    margin-left: 40%;
+    color: white;
+    margin-top: -46px;
+}
+.footcontent2{
+    margin-left: 48%;
+    color: white;
+    margin-top: -11px;
+}
+.footbox1{
+float: left;
+width: 40%;
+height: 300px;
+/* background-color: aliceblue; */
+margin-left: 80px;
+margin-top: 40px;
+}
+.footbox2{
+float: left;
+width: 40%;
+height: 300px;
+/* background-color: aliceblue; */
+margin-left: 30px;
+margin-top: 40px;
+}
+.label{
+    font-size: 20px;
+    color: gray;
+    
+}
+.input{
+    width: 491px;
+    height: 41px;
+    margin-top: 10px;
+    background-color:  #cccccc;
+    border: 1px solid #ccc;
+    
+}
+.input1{
+    width: 491px;
+    height: 172px;
+    margin-top: 10px;
+    background-color:  #cccccc;
+    border: 1px solid #ccc;
+}
+.footbtn{
+    width: 491px;
+    height: 41px;
+    margin-top: 10px;
+    background-color: #002633;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+}
